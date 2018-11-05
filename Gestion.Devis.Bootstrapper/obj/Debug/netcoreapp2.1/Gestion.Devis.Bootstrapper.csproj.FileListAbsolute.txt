@@ -1,0 +1,6 @@
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion.Devis.Bootstrapper\bin\Debug\netcoreapp2.1\Gestion.Devis.Bootstrapper.deps.json
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion.Devis.Bootstrapper\bin\Debug\netcoreapp2.1\Gestion.Devis.Bootstrapper.dll
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion.Devis.Bootstrapper\obj\Debug\netcoreapp2.1\Gestion.Devis.Bootstrapper.csprojAssemblyReference.cache
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion.Devis.Bootstrapper\obj\Debug\netcoreapp2.1\Gestion.Devis.Bootstrapper.csproj.CoreCompileInputs.cache
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion.Devis.Bootstrapper\obj\Debug\netcoreapp2.1\Gestion.Devis.Bootstrapper.AssemblyInfoInputs.cache
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion.Devis.Bootstrapper\obj\Debug\netcoreapp2.1\Gestion.Devis.Bootstrapper.AssemblyInfo.cs
