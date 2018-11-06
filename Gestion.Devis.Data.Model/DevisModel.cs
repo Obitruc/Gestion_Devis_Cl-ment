@@ -10,9 +10,10 @@ namespace Gestion.Devis.Data.Model
         public string NumeroDevis { get; set; }
         public DateTime DateDevis { get; set; }
         public string TypeDevis { get; set; }
+        public InformationsClementModel InformationsClementDevis { get; set; }
         public string DestinataireDevis { get; set; }
         public string ObjetDevis { get; set; }
-        public TableauxModel TableauDevis { get; set; }
+        public ItemsModel TableauDevis { get; set; }
         public int TotalDevis { get; set; }
         public int RemiseDevis { get; set; }
         public int MontantFinalDevis { get; set; }

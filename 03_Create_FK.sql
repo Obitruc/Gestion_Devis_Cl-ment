@@ -105,3 +105,14 @@ GO
 
 ALTER TABLE [dbo].[ItemsUnites] CHECK CONSTRAINT [FK_Unites_ItemsUnites]
 GO
+
+
+
+-- TABLE INFORMATIONSCLEMENT - DEVIS FK
+
+ALTER TABLE [dbo].[Devis]  WITH CHECK ADD  CONSTRAINT [FK_Devis_InformationsClement] FOREIGN KEY([InformationsClement])
+REFERENCES [dbo].[InformationsClement] ([InformationsClementId])
+GO
+
+ALTER TABLE [dbo].[Devis] CHECK CONSTRAINT [FK_Devis_InformationsClement]
+GO

@@ -7,11 +7,8 @@ CREATE TABLE [dbo].[Devis](
 	[Numero] [numeric](18, 0) NOT NULL,
 	[Date] [date] NOT NULL,
 	[Type] [nvarchar](20) NOT NULL,
-	[DestinataireId] [uniqueidentifier] NOT NULL,
 	[Objet] [nvarchar](50) NOT NULL,
-	[SiretBlanchard] [numeric](18, 0) NOT NULL,
-	[NomBlanchard] [nvarchar](20) NOT NULL,
-	[AdresseBlanchard] [nvarchar](50) NOT NULL,
+	[InformationsClement] [uniqueidentifier] NOT NULL,
 	[Items] [uniqueidentifier] NOT NULL,
 	[Total] [numeric](18, 0) NOT NULL,
 	[Remise] [numeric](18, 0) NOT NULL,
@@ -91,3 +88,16 @@ CREATE TABLE [dbo].[PrixUnites](
 ) ON [PRIMARY]
 GO
 
+-- TABLE INFORMATIONS CLEMENT
+CREATE TABLE [dbo].[InformationsClement](
+	[InformationsClementId] [uniqueidentifier] NOT NULL,
+	[Siret] [nvarchar](20) NOT NULL,
+	[NomClement] [nvarchar](20) NOT NULL,
+	[AdresseClement1] [nvarchar](50) NOT NULL,
+	[AdresseClement2] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_InformationsClement] PRIMARY KEY CLUSTERED 
+(
+	[InformationsClementId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
