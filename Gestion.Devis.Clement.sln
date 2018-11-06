@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Commun", "04 Commun", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 Scripts", "05 Scripts", "{D20376AA-5F29-4BA2-9CEB-B983B690905B}"
 	ProjectSection(SolutionItems) = preProject
-		Create_Database.sql = Create_Database.sql
-		Create_FK.sql = Create_FK.sql
-		Create_Tables.sql = Create_Tables.sql
+		01_Create_Database.sql = 01_Create_Database.sql
+		02_Create_Tables.sql = 02_Create_Tables.sql
+		03_Create_FK.sql = 03_Create_FK.sql
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 UI", "03 UI", "{AA1E8ED0-2C1A-4ABA-8ED4-AA6285A854C1}"
