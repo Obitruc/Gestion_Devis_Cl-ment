@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Business.Interface\\Gestion.Devis.Business.Interface.csproj",
+      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Business.Interface\\Gestion.Devis.Business.Interface.csproj",
       "projectName": "Gestion.Devis.Business.Interface",
-      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Business.Interface\\Gestion.Devis.Business.Interface.csproj",
+      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Business.Interface\\Gestion.Devis.Business.Interface.csproj",
       "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Business.Interface\\obj\\",
+      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Business.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

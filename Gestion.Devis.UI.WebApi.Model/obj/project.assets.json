@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.UI.WebApi.Model\\Gestion.Devis.UI.WebApi.Model.csproj",
+      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.UI.WebApi.Model\\Gestion.Devis.UI.WebApi.Model.csproj",
       "projectName": "Gestion.Devis.UI.WebApi.Model",
-      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.UI.WebApi.Model\\Gestion.Devis.UI.WebApi.Model.csproj",
+      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.UI.WebApi.Model\\Gestion.Devis.UI.WebApi.Model.csproj",
       "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.UI.WebApi.Model\\obj\\",
+      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.UI.WebApi.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

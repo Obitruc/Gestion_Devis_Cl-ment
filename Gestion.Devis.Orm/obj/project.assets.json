@@ -3031,11 +3031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Orm\\Gestion.Devis.Orm.csproj",
+      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Orm\\Gestion.Devis.Orm.csproj",
       "projectName": "Gestion.Devis.Orm",
-      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Orm\\Gestion.Devis.Orm.csproj",
+      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Orm\\Gestion.Devis.Orm.csproj",
       "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Orm\\obj\\",
+      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Orm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Dao.Interface\\Gestion.Devis.Dao.Interface.csproj",
+      "projectUniqueName": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Dao.Interface\\Gestion.Devis.Dao.Interface.csproj",
       "projectName": "Gestion.Devis.Dao.Interface",
-      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Dao.Interface\\Gestion.Devis.Dao.Interface.csproj",
+      "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Dao.Interface\\Gestion.Devis.Dao.Interface.csproj",
       "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion.Devis.Dao.Interface\\obj\\",
+      "outputPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Dao.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
