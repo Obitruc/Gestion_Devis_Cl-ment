@@ -1,0 +1,6 @@
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion_Devis_Cl-ment\Gestion.Devis.Dao\bin\Debug\netcoreapp2.1\Gestion.Devis.Dao.deps.json
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion_Devis_Cl-ment\Gestion.Devis.Dao\bin\Debug\netcoreapp2.1\Gestion.Devis.Dao.dll
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion_Devis_Cl-ment\Gestion.Devis.Dao\obj\Debug\netcoreapp2.1\Gestion.Devis.Dao.csprojAssemblyReference.cache
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion_Devis_Cl-ment\Gestion.Devis.Dao\obj\Debug\netcoreapp2.1\Gestion.Devis.Dao.csproj.CoreCompileInputs.cache
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion_Devis_Cl-ment\Gestion.Devis.Dao\obj\Debug\netcoreapp2.1\Gestion.Devis.Dao.AssemblyInfoInputs.cache
+E:\Développement\Projets\Gestion_Devis_Clement\Gestion.Devis.Clement\Gestion_Devis_Cl-ment\Gestion.Devis.Dao\obj\Debug\netcoreapp2.1\Gestion.Devis.Dao.AssemblyInfo.cs

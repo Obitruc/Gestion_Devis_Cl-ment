@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Gestion.Devis.Data.Model
 {
-    class DevisModel
+    public class DevisModel
     {
         public Guid DevisId { get; set; }
         public string NumeroDevis { get; set; }

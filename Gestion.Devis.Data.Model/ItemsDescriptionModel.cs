@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Gestion.Devis.Data.Model
 {
-    class ItemsDescriptionModel
+    public class ItemsDescriptionModel
     {
         public Guid ItemsDescriptionsId { get; set; }
         public Guid DescriptionsItemsId { get; set; }

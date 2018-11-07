@@ -789,6 +789,16 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "Gestion.Devis.Data.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Gestion.Devis.Data.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Gestion.Devis.Data.Model.dll": {}
+        }
       }
     }
   },
@@ -3016,10 +3026,16 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "Gestion.Devis.Data.Model/1.0.0": {
+      "type": "project",
+      "path": "../Gestion.Devis.Data.Model/Gestion.Devis.Data.Model.csproj",
+      "msbuildProject": "../Gestion.Devis.Data.Model/Gestion.Devis.Data.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Gestion.Devis.Data.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite.Core >= 2.1.4",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -3053,7 +3069,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Data.Model\\Gestion.Devis.Data.Model.csproj": {
+              "projectPath": "E:\\Développement\\Projets\\Gestion_Devis_Clement\\Gestion.Devis.Clement\\Gestion_Devis_Cl-ment\\Gestion.Devis.Data.Model\\Gestion.Devis.Data.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
